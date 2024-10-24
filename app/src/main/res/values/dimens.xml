@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spinner_dropdown_offset">-32dp</dimen>
+    <!-- Thêm các định nghĩa dimension khác ở đây -->
+    <dimen name="spinner_dropdown_horizontal_offset">-6dp</dimen>
+</resources>
